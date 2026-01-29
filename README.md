@@ -1,3 +1,4 @@
+
 RAG-Based Document Question Answering System
 1. Overview
 
@@ -116,3 +117,7 @@ Cloud deployment
 15. Conclusion
 
 This project demonstrates a complete end-to-end RAG-based document QA system with clean API design, measurable performance metrics, and clear architectural decisions suitable for applied AI evaluations.
+=======
+# RAG-Based-Question-Answering-System
+Build an applied AI system that allows users to upload documents and ask questions grounded in those documents using a Retrieval-Augmented Generation (RAG) approach. The system emphasizes retrieval quality, system transparency, and API design rather than black-box templates.
+>>>>>>> eebf4fec0f099d666932ff6094e7ac5deac2c87c
